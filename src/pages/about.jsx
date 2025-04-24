@@ -5,16 +5,8 @@ import { Typography } from 'antd';
 const { Paragraph} = Typography;
 
 const About = () => {
-//   const [ellipsis, setEllipsis] = useState(true);
-
   return (
     <>
-      {/* <Switch
-        checked={ellipsis}
-        onChange={() => {
-          setEllipsis(!ellipsis);
-        }}
-      /> */}
     <div  style={{marginLeft:-90,marginTop:75}}>
     <h1>About Us</h1>
       <Paragraph >
